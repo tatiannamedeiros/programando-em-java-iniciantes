@@ -34,3 +34,5 @@ _O arquivo que foi alterado deve aparecer no terminal, onde as suas últimas lin
 
 _Caso queira, pode confirmar novamente se o Java foi devidamente instalado digitando:_
 java --version
+
+--> No Windows baixe o JDK pelo site da azul.com --> Depois vá em "Editar as variáveis de ambiente do sistema" --> Avançado --> Variáveis de Ambiente --> Nova Variável de Sistema --> Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em Procurar Diretório --> clicar em OK --> configure o Path clicando em Path e depois em Editar --> Novo --> cole de novo o caminho + barra invertida + bin --> Mover para cima (ficar no topo) --> confirme no Prompt de comando se foi instalado --> java --version
