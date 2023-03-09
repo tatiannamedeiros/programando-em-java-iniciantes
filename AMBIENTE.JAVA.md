@@ -62,13 +62,13 @@ java --version`
 
 *Abra o terminal novamente (CTRL+ALT+T). Confirme se as configurações feitas foram salvas digitando no terminal:*
 
-`cat ~/.bashrc
-`
+`cat ~/.bashrc`
+
 <br>*O arquivo que foi alterado deve aparecer no terminal, onde as suas últimas linhas devem conter os caminhos que colocamos.*<br/>
 
 ***Pronto, você já pode se aventurar no mundo dos javeiros*** 🙂
 ______________________________
-#### Informações extras:
+#### Informações extras
 
 ## DESINSTALAR OPENJDK (a título de curiosidade)
 <br>Digite no terminal:<br/>
