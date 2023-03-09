@@ -1,4 +1,4 @@
-## PROGRAMANDO EM JAVA USANDO OPENJDK
+## INSTALAÇÃO OPENJDK (gratuito e open source)
 #### Introdução
 ##### Ambiente Linux
 
