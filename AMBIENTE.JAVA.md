@@ -1,6 +1,6 @@
 ## PROGRAMANDO EM JAVA USANDO OPENJDK
-#### Primeiros Passos
-##### → Linux
+#### Introdução
+##### Ambiente Linux
 
 *Para começar a sua jornada como programador Java, entenda que o ambiente precisa ser preparado. Veja o Java como um rei que precisa ser devidamente recepcionado…* 👑
 
@@ -77,6 +77,7 @@ ______________________________
 *Mais informações sobre desinstalar o openjdk aqui:*
 https://ciksiti.com/pt/chapters/3354-how-to-uninstall-java-from-ubuntu--linux-hint
 
+##### Ambiente Windows
 
 ## INSTALAÇÃO EM AMBIENTE WINDOWS
 <br>No Windows baixe o JDK pelo site da azul.com ➡️ Depois vá em "Editar as variáveis de ambiente do sistema" ➡️ Opção "Avançado" ➡️ Variáveis de Ambiente ➡️ Nova Variável de Sistema ➡️ Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em Procurar Diretório ➡️ clicar em OK ➡️ configure o Path clicando em Path e depois em Editar ➡️ Novo ➡️ cole de novo o caminho + barra invertida + bin ➡️ Mover para cima (ficar no topo) ➡️ confirme no Prompt de comando se foi instalado ➡️ java --version
