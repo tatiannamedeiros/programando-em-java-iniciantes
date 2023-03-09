@@ -39,7 +39,7 @@ java --version`
 *De início precisamos verificar o caminho no qual o JDK foi instalado na máquina.*
 <br>Digite no terminal:<br/>
 
-'sudo update-alternatives --config java'
+`sudo update-alternatives --config java`
 
 *Agora, vamos editar o arquivo bashrc*
 <br>Digite no terminal:<br/>
