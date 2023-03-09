@@ -64,7 +64,7 @@ java --version`
 
 `cat ~/.bashrc`
 
-<br>*O arquivo que foi alterado deve aparecer no terminal, onde as suas últimas linhas devem conter os caminhos que colocamos.*<br/>
+*O arquivo que foi alterado deve aparecer no terminal, onde as suas últimas linhas devem conter os caminhos que colocamos.*
 
 ***Pronto, você já pode se aventurar no mundo dos javeiros*** 🙂
 ______________________________
