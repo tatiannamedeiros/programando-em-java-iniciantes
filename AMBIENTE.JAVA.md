@@ -1,16 +1,16 @@
-PROGRAMANDO EM JAVA USANDO OPENJDK
-Primeiros Passos
-→ Linux
+## PROGRAMANDO EM JAVA USANDO OPENJDK
+#### Primeiros Passos
+##### → Linux
 
-Para começar a sua jornada como programador Java, entenda que o ambiente precisa ser preparado. Veja o Java como um rei que precisa ser devidamente recepcionado… 👑
+*Para começar a sua jornada como programador Java, entenda que o ambiente precisa ser preparado. Veja o Java como um rei que precisa ser devidamente recepcionado…* 👑
 
-O OpenJDK é um conjunto de ferramentas que possibilitam a criação de programas em java, assim como a execução destes. Mas você pode usar em vez do OpenJDK (código aberto) o Oracle JDK (licenciado). Ambos podem ser usados de forma gratuita, contudo, a última tem a licença da Oracle, o que cria certas regras quanto à utilização e, ainda, permite ter acesso a alguns benefícios como o auxílio da Oracle caso haja problemas relacionados ao JDK. Entenda que não há diferença quanto ao uso, até porque a JDK da Oracle é baseada na OpenJDK, a questão é que para o âmbito empresarial, poder ter a possibilidade de receber assistência da Oracle acarreta em uma maior segurança.
+*O OpenJDK é um conjunto de ferramentas que possibilitam a criação de programas em java, assim como a execução destes. Mas você pode usar em vez do OpenJDK (código aberto) o Oracle JDK (licenciado). Ambos podem ser usados de forma gratuita, contudo, a última tem a licença da Oracle, o que cria certas regras quanto à utilização e, ainda, permite ter acesso a alguns benefícios como o auxílio da Oracle caso haja problemas relacionados ao JDK. Entenda que não há diferença quanto ao uso, até porque a JDK da Oracle é baseada na OpenJDK, a questão é que para o âmbito empresarial, poder ter a possibilidade de receber assistência da Oracle acarreta em uma maior segurança.*
 
-CONFIGURANDO O AMBIENTE JAVA
-Preparando o computador para desenvolver programas em java
+## CONFIGURANDO O AMBIENTE JAVA
+### Preparando o computador para desenvolver programas em java
 
-Precisamos descobrir se o java já está instalado em nosso sistema operacional.
-Digite no terminal:
+1. Precisamos descobrir se o java já está instalado em nosso sistema operacional.
+<br>.Digite no terminal:<br/>
 
 `java --version`
 
