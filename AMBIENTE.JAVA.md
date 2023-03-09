@@ -34,7 +34,7 @@ java --version`
 *O ‘19’ representa a versão que queremos instalar, apenas um exemplo, pode ser outra versão!). Após a instalação ser concluída digite novamente “java --version” para conferir.*
 
 ## CONFIGURANDO A VARIÁVEL DE AMBIENTE
-<br>São elas as responsáveis pelo bom funcionamento do nosso ambiente de desenvolvimento. Assim como estão diretamente relacionadas a execução de programas em Java.<br/>
+<br>*São elas as responsáveis pelo bom funcionamento do nosso ambiente de desenvolvimento. Assim como estão diretamente relacionadas a execução de programas em Java.*<br/>
 
 *De início precisamos verificar o caminho no qual o JDK foi instalado na máquina.*
 <br>Digite no terminal:<br/>
