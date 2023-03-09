@@ -12,7 +12,7 @@
 1. Precisamos descobrir se o java já está instalado em nosso sistema operacional.
 <br>Digite no terminal:<br/>
 
-`java --version`
+"java --version"
 
 *Nesta situação pode aparecer algo do tipo ‘java’ not found (o que significa que você não tem o java instalado aí no seu belo computador) OU pode aparecer a versão instalada na sua máquina (você já tem o java aí bem pertinho de você).*
 
