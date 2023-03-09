@@ -26,7 +26,7 @@ java --version`
 
 *Aqui no exemplo escolhi a versão 19, eu tinha a versão 11.*
 
-## INSTALAR OPENJDK (para quem não tem instalado - nenhuma versão)
+## INSTALAR OPENJDK (para quem não tem instalado)
 <br>Digite no terminal:<br/>
 
 `sudo apt install openjdk-19-jdk`
