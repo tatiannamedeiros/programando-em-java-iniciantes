@@ -1,26 +1,29 @@
-#Instalando o Git
-##Linux - Ubuntu
---> tudo que digitar no terminal clique na tecla ENTER para confirmar
+## INSTALAR O GIT PELO TERMINAL
+### Linux - Ubuntu
+➡️ tudo que digitar no terminal clique na tecla ENTER depois para confirmar
 
 1. NO TERMINAL DIGITE:
-git --version
+`git --version`
 
 2. SE APARECER 'Command 'git' not found', DIGITE:
-sudo apt-get install git-all
+`sudo apt-get install git-all`
 
-3. DIGITE SUA SENHA (MESMO NÃO APARECENDO NA TELA ESTÁ SENDO DIGITADO) E TECLA "ENTER".
+3. DIGITE SUA SENHA (MESMO NÃO APARECENDO NA TELA ESTÁ SENDO DIGITADA) E TECLE "ENTER"
 
-4. DIGITE 'Y' (YES) PARA PROSSEGUIR COM A INSTALAÇÃO DOS PACOTES.
+4. DIGITE 'Y' (YES) PARA PROSSEGUIR COM A INSTALAÇÃO DOS PACOTES
 
-5. VOCÊ SABERÁ QUE A INSTALAÇÃO TERMINOU QUANDO O SEU NOME DE USUÁRIO APARECER.
+5. VOCÊ SABERÁ QUE A INSTALAÇÃO TERMINOU QUANDO O SEU NOME DE USUÁRIO APARECER
 
 6. PARA CONFIRMAR SE A INSTALAÇÃO FOI FEITA DIGITE:
-git --version
+`git --version`
 
-7. APARECERÁ A VERSÃO QUE FOI INSTALADA NO SEU COMPUTADOR.
+7. APARECERÁ A VERSÃO QUE FOI INSTALADA NO SEU COMPUTADOR
 
 8. ADICIONANDO O E-MAIL QUE VOCÊ CADASTROU NO GITHUB... PARA ISSO DIGITE NO TERMINAL:
-git config --global user.email <digite seu e-mail aqui - retire as setas!>
+`git config --global user.email <digite seu e-mail aqui (retire as setas)>`
 
-9. EXISTEM OUTRAS CONFIGURAÇÕES QUE PODEM SER FEITAS ALÉM DO E-MAIL, CONTUDO, DE INÍCIO É SUFICIENTE.
-10. VOCÊ PODE INSTALAR O GIT TAMBÉM SIMPLESMENTE BAIXANDO O PROGRAMA E INSTALANDO NA SUA MÁQUINA OU PELO TERMINAL COMO FOI ENSINADO.
+9. EXISTEM OUTRAS CONFIGURAÇÕES QUE PODEM SER FEITAS ALÉM DO E-MAIL, CONTUDO, DE INÍCIO É SUFICIENTE
+
+## INSTALAR O GIT PELO SITE
+
+***Você pode baixar o Git no site: https://git-scm.com/ e instalar na sua máquina sem precisar fazer os passos acima mencionados***
