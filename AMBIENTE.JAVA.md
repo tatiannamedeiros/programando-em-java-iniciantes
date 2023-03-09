@@ -80,7 +80,7 @@ https://ciksiti.com/pt/chapters/3354-how-to-uninstall-java-from-ubuntu--linux-hi
 
 #### Ambiente Windows
 
-No Windows baixe o JDK e descompacte o arquivo ➡️ Depois vá em "Editar as variáveis de ambiente do sistema" ➡️ Opção "Avançado" ➡️ Variáveis de Ambiente ➡️ Nova Variável de Sistema ➡️ Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em Procurar Diretório ➡️ clicar em OK ➡️ configure o Path clicando em Path e depois em Editar ➡️ Novo ➡️ cole de novo o caminho + \bin ➡️ Mover para cima (ficar no topo - basta usar a seta para cima do teclado) ➡️ confirme no Prompt de comando se foi instalado ➡️ `java --version`
+No Windows baixe o JDK e descompacte o arquivo ➡️ No Menu do Windows digite "Editar as variáveis de ambiente do sistema" ➡️ Opção "Avançado" ➡️ "Variáveis de Ambiente" ➡️ "Nova Variável de Sistema" ➡️ Preencha os campos ➡️ Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em "Procurar Diretório" e selecioná-lo ➡️ clicar em "OK" ➡️ configure o Path clicando em "Path" e depois em "Editar" ➡️ "Novo" ➡️ cole novamente o caminho e no final acrescente "\bin" (sem as aspas) ➡️ Mova para cima (ficar no topo - basta usar a seta para cima do teclado) ➡️ confirme no Prompt de Comando se foi instalado ➡️ `java --version`
 
 Por Tatiana Medeiros
 @tatiannamedeiros
