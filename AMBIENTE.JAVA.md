@@ -5,7 +5,7 @@
 
 *O OpenJDK é um conjunto de ferramentas que possibilitam a criação de programas em java, assim como a execução destes. Mas você pode usar em vez do OpenJDK (código aberto) o Oracle JDK (licenciado). Ambos podem ser usados de forma gratuita, contudo, a última tem a licença da Oracle, o que cria certas regras quanto à utilização e, ainda, permite ter acesso a alguns benefícios como o auxílio da Oracle caso haja problemas relacionados ao JDK. Entenda que não há diferença quanto ao uso, até porque a JDK da Oracle é baseada na OpenJDK, a questão é que para o âmbito empresarial, poder ter a possibilidade de receber assistência da Oracle acarreta em uma maior segurança.*
 
-##### Ambiente Linux
+#### Ambiente Linux
 
 ## CONFIGURANDO O AMBIENTE JAVA
 ### Preparando o computador para desenvolver programas em java
@@ -68,7 +68,7 @@ java --version`
 
 ***Pronto, você já pode se aventurar no mundo dos javeiros*** 🙂
 ______________________________
-### Informações extras:
+#### Informações extras:
 
 ## DESINSTALAR OPENJDK (a título de curiosidade)
 <br>Digite no terminal:<br/>
@@ -78,7 +78,7 @@ ______________________________
 *Mais informações sobre desinstalar o openjdk aqui:*
 https://ciksiti.com/pt/chapters/3354-how-to-uninstall-java-from-ubuntu--linux-hint
 
-##### Ambiente Windows
+#### Ambiente Windows
 
 <br>No Windows baixe o JDK pelo site da azul.com ➡️ Depois vá em "Editar as variáveis de ambiente do sistema" ➡️ Opção "Avançado" ➡️ Variáveis de Ambiente ➡️ Nova Variável de Sistema ➡️ Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em Procurar Diretório ➡️ clicar em OK ➡️ configure o Path clicando em Path e depois em Editar ➡️ Novo ➡️ cole de novo o caminho + barra invertida + bin ➡️ Mover para cima (ficar no topo) ➡️ confirme no Prompt de comando se foi instalado ➡️ java --version
 
