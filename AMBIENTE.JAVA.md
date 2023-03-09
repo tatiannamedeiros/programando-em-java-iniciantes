@@ -21,14 +21,14 @@ java --version`
 ## ATUALIZAR O OPENJDK (você já tem uma versão mais antiga instalada)
 <br>Digite no terminal:<br/>
 
-'sudo apt upgrade openjdk-19-jdk'
+`sudo apt upgrade openjdk-19-jdk`
 
 *Aqui no exemplo escolhi a versão 19, eu tinha a versão 11.*
 
 ## INSTALAR OPENJDK (para quem não tem instalado - nenhuma versão)
 <br>Digite no terminal:<br/>
 
-'sudo apt install openjdk-19-jdk'
+`sudo apt install openjdk-19-jdk`
 
 *O ‘19’ representa a versão que queremos instalar, apenas um exemplo, pode ser outra versão!). Após a instalação ser concluída digite novamente “java --version” para conferir.*
 
@@ -43,26 +43,26 @@ java --version`
 *Agora, vamos editar o arquivo bashrc*
 <br>Digite no terminal:<br/>
 
-'sudo gedit ~/.bashrc'
+`sudo gedit ~/.bashrc`
 
 **Importante: caso não tenha os pacotes gedit basta instalar por meio do comando:**
 
-'sudo apt-get install gedit'
+`sudo apt-get install gedit`
 
 *Mais informações sobre pacotes gedit aqui: https://www.thegeekdiary.com/gedit-command-not-found/*
 
 *Um arquivo de texto será aberto de forma automática…*
 
-'JAVA_HOME=usr/lib/jvm/java-19-openjdk-amd64' (verifique se são semelhantes ao caminho mostrado ao digitar '--config java')
+`JAVA_HOME=usr/lib/jvm/java-19-openjdk-amd64` (verifique se são semelhantes ao caminho mostrado ao digitar '--config java')
 
-'export JAVA_HOME export PATH=$PATH:$JAVA_HOME'
+`export JAVA_HOME export PATH=$PATH:$JAVA_HOME`
 
 *COLE as estruturas acima na última linha do arquivo que foi aberto, depois clique em SALVAR e FECHE o arquivo de texto. Feche também o terminal após a etapa anterior.*
 
 *Abra o terminal novamente (CTRL+ALT+T). Confirme se as configurações feitas foram salvas digitando no terminal:*
 
-'cat ~/.bashrc'
-
+`cat ~/.bashrc
+`
 *O arquivo que foi alterado deve aparecer no terminal, onde as suas últimas linhas devem conter os caminhos que colocamos.*
 
 **Pronto, você já pode se aventurar no mundo dos javeiros** 🙂
@@ -72,7 +72,7 @@ ______________________________
 ## DESINSTALAR OPENJDK (a título de curiosidade)
 <br>Digite no terminal:<br/>
 
-'$sudo apt purge openjdk-19-*'
+`$sudo apt purge openjdk-19-*`
 
 *Mais informações sobre desinstalar o openjdk aqui:*
 https://ciksiti.com/pt/chapters/3354-how-to-uninstall-java-from-ubuntu--linux-hint
