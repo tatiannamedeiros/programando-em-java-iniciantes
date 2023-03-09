@@ -1,6 +1,8 @@
 ## INSTALANDO A INTERFACE DE DESENVOLVIMENTO IntelliJ na versão Community (gratuita e open source)
 ### <br>O sistema operacional usado foi o Mint Linux<br/>
 
+####***IMPORANTE: O PACOTE JDK PRECISA JÁ ESTAR INSTALADO***
+
 *Vá no site: https://www.jetbrains.com/pt-br/idea/*
 
 *Verifique o seu sistema operacional, para cada um existe(m) opção(ões) de download(s)*
