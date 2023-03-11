@@ -1,4 +1,4 @@
-## INSTALAÇÃO OPENJDK (gratuito e open source)
+## INSTALAÇÃO OPENJDK (gratuito e open source) - necessário ter privilégios de administrador
 #### Introdução
 
 *Para começar a sua jornada como programador Java, entenda que o ambiente precisa ser preparado. Veja o Java como um rei que precisa ser devidamente recepcionado…* 👑
@@ -80,7 +80,21 @@ https://ciksiti.com/pt/chapters/3354-how-to-uninstall-java-from-ubuntu--linux-hi
 
 #### Ambiente Windows
 
-No Windows baixe o JDK e descompacte o arquivo ➡️ No Menu do Windows digite "Editar as variáveis de ambiente do sistema" ➡️ Opção "Avançado" ➡️ "Variáveis de Ambiente" ➡️ "Nova Variável de Sistema" ➡️ Preencha os campos ➡️ Nome: JAVA_HOME e Valor da Variável: colar o caminho onde o arquivo jdk está (descompactado) OU ir em "Procurar Diretório" e selecioná-lo ➡️ clicar em "OK" ➡️ configure o Path clicando em "Path" e depois em "Editar" ➡️ "Novo" ➡️ cole novamente o caminho e no final acrescente "\bin" (sem as aspas) ➡️ Mova para cima (ficar no topo - basta usar a seta para cima do teclado) ➡️ confirme no Prompt de Comando se foi instalado ➡️ `java --version`
+➡️ Acesse https://jdk.java.net/ e escolha a versão que deseja clicando nela (indico a mais recente - no momento é a 19)
+➡️ Baixe o arquivo binário em .zip para Windows e depois descompacte-o de modo a salvar em "C:\Program Files" (é o mesmo que "Arquivos de Programas")
+➡️ No Menu do Windows digite "Editar as variáveis de ambiente do sistema"
+➡️ Opção "Avançado"
+➡️ "Variáveis de Ambiente"
+➡️ Em "Variáveis de usuário" selecione "Path" e clique em "Editar"
+➡️ Clique em "Novo" e cole o caminho onde a pasta que você descompactou está (basta ir em Arquivos de Programas, clicar na pasta com o botão direito do mouse e selecionar a opção "Copiar caminho") - Importante que você retire as aspas e acrescente no final "\bin" (para criar um subdiretório bin)
+➡️ Clique em "OK"
+➡️ Agora vá em "Variáveis do Sistema" e clique na opção "Novo"
+➡️ Em "Nome da variável" digite: JAVA_HOME
+➡️ Em "Valor da variável" digite o caminho no qual a pasta descompactada está (sem o "\bin")
+➡️ Clique em "OK" nas abas que foram abertas para confirmar suas escolhas
+➡️ Confirme no Terminal se foi instalado digitando `java --version`
+
+Demais configurações do JDK podem ser realizadas pela própria IDE de suas escolha.
 
 Por Tatiana Medeiros
 @tatiannamedeiros
