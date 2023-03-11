@@ -42,6 +42,8 @@ __________________________________________________________________________
 
 *Após concluído pede-se para reiniciar o computador*
 
+*Na primeira vez que for usar o IntelliJ, será aberta uma aba pedindo para você concordar com os termos estabelecidos quanto ao uso da IDE, assim como perguntará se você deseja que feedbacks quanto ao uso e problemas sejam enviados à comunidade de desenvolvimento*
+
 Pronto! Você já está com a IDE IntelliJ instalada no seu ambiente WINDOWS.
 
 Por Tatiana Medeiros
