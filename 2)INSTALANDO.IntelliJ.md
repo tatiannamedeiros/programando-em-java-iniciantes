@@ -1,13 +1,11 @@
 ## INSTALANDO A INTERFACE DE DESENVOLVIMENTO IntelliJ na versão Community (gratuita e open source)
-### <br>O sistema operacional usado foi o Mint Linux<br/>
+## <br>Mint Linux<br/>
 
 ####***IMPORANTE: O PACOTE JDK PRECISA JÁ ESTAR INSTALADO***
 
 *Vá no site: https://www.jetbrains.com/pt-br/idea/*
 
-*Verifique o seu sistema operacional, para cada um existe(m) opção(ões) de download(s)*
-
-*Escolha a versão “Community Edition” (a “Ultimate” é paga, caso tenha interesse escolha esta)*
+*Escolha a versão “Community Edition” (a “Ultimate” é paga, caso tenha interesse escolha esta) para ambientes Linux*
 
 *Clique em “baixar”*
 
@@ -30,6 +28,21 @@
 *Selecione a opção “Create Desktop Entry” (no seu pode estar em português) para que você possa abrir a IDE de forma fácil sem depender do terminal (para que fique junto dos seus outros programas na barra de menus)*
 
 *Feche tudo e faça um teste: vá no Menu do seu sistema e digite “IntelliJ”, a IDE deverá aparecer mostrando que a instalação foi realizada com sucesso (assim como um arquivo de acesso fácil no seu computador)*
+
+Pronto! Você já está com a IDE IntelliJ instalada no seu ambiente LINUX.
+__________________________________________________________________________
+
+## <br>Windows<br/>
+
+*Vá no site: https://www.jetbrains.com/pt-br/idea/*
+
+*Escolha a versão “Community Edition” (a “Ultimate” é paga, caso tenha interesse escolha esta) e faça o download para Windows (arquivo .exe)*
+
+*Após o download basta abrir o instalador e selecionar as opções que deseja, tais como criar um atalho no desktop e escolher o IntelliJ como o padrão para abertura de arquivos do tipo .java*
+
+*Após concluído pede-se para reiniciar o computador*
+
+Pronto! Você já está com a IDE IntelliJ instalada no seu ambiente WINDOWS.
 
 Por Tatiana Medeiros
 @tatiannamedeiros
